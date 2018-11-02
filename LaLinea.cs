@@ -1,24 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SGPProject SchemaVersion="4.15.4200.29150" ToolId="E06D7E97E05C4BFA9D1D5AA13F8E3DA0" ToolVersion="4.2.4200.29150">
-  <Project id="1" Guid="{4dc88829-e581-449f-82cd-3e1c898fd567}">
-    <Properties id="2" />
-    <Configuration id="3">
-      <Property Name="Name" Value="Debug" />
-      <Property Name="DefineConstants" Value="DEBUG;TRACE" />
-    </Configuration>
-    <Configuration id="4">
-      <Property Name="DebugSymbols" Value="False" />
-      <Property Name="Optimize" Value="True" />
-      <Property Name="Name" Value="Release" />
-      <Property Name="DefineConstants" Value="TRACE" />
-    </Configuration>
-    <ProjectItem id="5">
-      <Properties id="6">
-        <Property Name="BuildAction" Value="Compile" />
-      </Properties>
-      <RootNamespace id="7">
-        <DirectNamespaceContent id="8">
-          <Text id="9"><![CDATA[
 using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -4153,17 +4132,3 @@ namespace LaLinea
         }
     }
 }
-
-
-
-]]></Text>
-        </DirectNamespaceContent>
-      </RootNamespace>
-    </ProjectItem>
-    <AssemblyReference id="10" Version="2.0.0.0" Name="System" />
-    <AssemblyReference id="11" Version="2.0.0.0" Name="System.Drawing" />
-    <AssemblyReference id="12" Version="2.0.0.0" Name="System.Windows.Forms" />
-    <AssemblyReference id="13" Version="1.3.4200.28995" Name="SGP.XUtility" />
-  </Project>
-  <Satellites />
-</SGPProject>
