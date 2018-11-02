@@ -1,0 +1,5 @@
+La Linea is a game where the player must draw a line which will collect the orange blocks.
+There are some barrier blocks:
+-dark green one absorbs the line
+-red one rebounds the line
+-light green one teleports the line into the yellow ball.
